@@ -1,0 +1,12 @@
+
+h1 {font-family: perpetua;
+	font-size: 45px; font-weight: 400; text-align: center;
+background-color:rgb(233, 211, 253);padding: 15px 32px;}
+h2 {font-family: perpetua;
+	font-size: 36px; font-weight: 400; text-align: center;}
+h3 {font-family: perpetua;
+	font-size: 26px; font-weight: 400; text-align: center;}
+p {font-family: nunito; font-size: 18px;}
+nav {font-family: perpetua;font-weight: 400; text-align: center;}	
+button {background-color: rgb(233, 211, 253); border: none; 
+	padding: 15px 32px; border-radius: 8px; font-size: 18px;}
